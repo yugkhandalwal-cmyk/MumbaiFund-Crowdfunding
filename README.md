@@ -1,8 +1,8 @@
 # MumbaiFund
-A crowdfunding smart contract for ETHMumbai 2026.
+A crowdfunding smart contract for ETHGlobal Mumbai 2026.
 
 ## Overview
-As a Solidity beginner, I built MumbaiFund to explore Web3, using a crowdfunding template from Solidity by Example. I studied the code to understand Ether handling and time-based logic, customized the contract name and goal, and deployed it on Sepolia for ETHMumbai.
+As a Solidity beginner, I built MumbaiFund to explore Web3, using a crowdfunding template from Solidity by Example. I studied the code to understand Ether handling and time-based logic, customized the contract name and goal, and deployed it on Sepolia for ETHGlobal.
 
 ## Deployment
 - **Network**: Sepolia Testnet
