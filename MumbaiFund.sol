@@ -1,4 +1,4 @@
-// Created by Yug Khandelwal for ETHMumbai 2026
+// Created by Yug Khandelwal for ETHGlobal Mumbai 2026
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
