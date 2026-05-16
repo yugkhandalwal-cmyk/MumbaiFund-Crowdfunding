@@ -45,4 +45,4 @@ Building MumbaiFund was a thrilling step in my Web3 journey! Studying the contra
 Licensed under the MIT License—see [LICENSE](LICENSE).
 
 ## Contact
-Email me at yugkhandalwal@gmail.com or find me on X @yug_khandelwalz. Excited to connect at ETHMumbai 2026!
+Email me at yugkhandalwal@gmail.com or find me on X @yug_khandelwalz. Excited to connect at ETHGlobal Mumbai 2026!
